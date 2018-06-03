@@ -1,0 +1,45 @@
+ii  antiword                              0.37-11                                    armhf        Converts MS Word files to text, PS, PDF and XML
+ii  catdoc                                1:0.94.3~git20160113.dbc9ec6+dfsg-1+deb9u1 armhf        Convert Word, Excel, and PowerPoint files to plain text
+ii  docx2txt                              1.4-0.1                                    all          Convert Microsoft OOXML files to plain text
+ii  gettext-base                          0.19.8.1-2                                 armhf        GNU Internationalization utilities for the base system
+ii  gobby                                 0.5.0-8.1                                  armhf        infinote-based collaborative text editor
+ii  groff-base                            1.22.3-9                                   armhf        GNU troff text-formatting system (base system components)
+ii  libalgorithm-merge-perl               0.08-3                                     all          Perl module for three-way merge of textual data
+ii  libclucene-contribs1v5:armhf          2.3.3.4+dfsg-1                             armhf        language specific text analyzers (runtime)
+ii  libclucene-core1v5:armhf              2.3.3.4+dfsg-1                             armhf        core library for full-featured text search engine (runtime)
+ii  libexttextcat-2.0-0:armhf             3.4.4-2                                    armhf        Language detection library
+ii  libexttextcat-data                    3.4.4-2                                    all          Language detection library - data files
+ii  libharfbuzz-icu0:armhf                1.4.2-1                                    armhf        OpenType text shaping engine ICU backend
+ii  libharfbuzz0b:armhf                   1.4.2-1                                    armhf        OpenType text shaping engine (shared library)
+ii  liblocale-gettext-perl                1.07-3+b1                                  armhf        module using libc functions for internationalization in Perl
+ii  libmwaw-0.3-3:armhf                   0.3.9-2                                    armhf        import library for some old Mac text documents
+ii  libnewt0.52:armhf                     0.52.19-1                                  armhf        Not Erik's Windowing Toolkit - text mode windowing with slang
+ii  libpango-1.0-0:armhf                  1.40.5-1                                   armhf        Layout and rendering of internationalized text
+ii  libpangocairo-1.0-0:armhf             1.40.5-1                                   armhf        Layout and rendering of internationalized text
+ii  libpangoft2-1.0-0:armhf               1.40.5-1                                   armhf        Layout and rendering of internationalized text
+ii  libptexenc1:armhf                     2016.20160513.41080.dfsg-2                 armhf        TeX Live: pTeX encoding library
+ii  libsynctex1:armhf                     2016.20160513.41080.dfsg-2                 armhf        TeX Live: SyncTeX parser library
+ii  libtexlua52:armhf                     2016.20160513.41080.dfsg-2                 armhf        TeX Live: Lua 5.2, modified for use with LuaTeX
+ii  libtexluajit2:armhf                   2016.20160513.41080.dfsg-2                 armhf        TeX Live: LuaJIT, modified for use with LuaJITTeX
+ii  libtext-charwidth-perl                0.04-7+b7                                  armhf        get display widths of characters on the terminal
+ii  libtext-iconv-perl                    1.7-5+b8                                   armhf        converts between character sets in Perl
+ii  libtext-wrapi18n-perl                 0.06-7.1                                   all          internationalized substitute of Text::Wrap
+ii  libwps-0.4-4:armhf                    0.4.5-1                                    armhf        Works text file format import filter library (shared library)
+ii  links                                 2.14-2                                     armhf        Web browser running in text mode
+ii  mawk                                  1.3.3-17                                   armhf        a pattern scanning and text processing language
+ii  mutt                                  1.7.2-1                                    armhf        text-based mailreader supporting MIME, GPG, PGP and threading
+ii  nano                                  2.7.4-1                                    armhf        small, friendly text editor inspired by Pico
+ii  nedit                                 1:5.6a-5                                   armhf        powerful, customizable, Motif based text editor
+ii  preview-latex-style                   11.90-1                                    all          extraction of elements from LaTeX documents as graphics
+ii  sed                                   4.4-1                                      armhf        GNU stream editor for filtering/transforming text
+ii  tex-common                            6.06                                       all          common infrastructure for building and installing TeX
+ii  texlive                               2016.20170123-5                            all          TeX Live: A decent selection of the TeX Live packages
+ii  texlive-base                          2016.20170123-5                            all          TeX Live: Essential programs and files
+ii  texlive-binaries                      2016.20160513.41080.dfsg-2                 armhf        Binaries for TeX Live
+ii  texlive-font-utils                    2016.20170123-5                            all          TeX Live: Graphics and font utilities
+ii  texlive-fonts-recommended             2016.20170123-5                            all          TeX Live: Recommended fonts
+ii  texlive-latex-base                    2016.20170123-5                            all          TeX Live: LaTeX fundamental packages
+ii  texlive-latex-extra                   2016.20170123-5                            all          TeX Live: LaTeX additional packages
+ii  texlive-latex-recommended             2016.20170123-5                            all          TeX Live: LaTeX recommended packages
+ii  texlive-music                         2016.20170123-5                            all          TeX Live: Music packages
+ii  texlive-pictures                      2016.20170123-5                            all          TeX Live: Graphics, pictures, diagrams

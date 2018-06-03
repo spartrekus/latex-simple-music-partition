@@ -1,0 +1,13 @@
+
+!tex
+!gfx
+!packages
+!begin
+
+You can create music sheets within the abc-environment:
+
+!fig{partition01001.eps}
+//!fig{pic.eps}
+//Output written on partition01001.eps (18050 bytes)
+
+\end{document}
